@@ -26,7 +26,7 @@
 
 ## 📫 How to reach me
 - Email: [manunarayananfg@gmail.com](manunarayananfg@gmail.com)
-- LinkedIn: [Manu's LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/manu-narayanan07/))
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/manu-narayanan07/)
 
 
 
