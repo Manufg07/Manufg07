@@ -2,9 +2,11 @@
 - Blockchain Enthusiast
 
 ## 🪡 My Skills
-- <p style="color:blue;">**Programming Languages:** JavaScript, Python, Solidity</p>
+<!--- **Programming Languages:** JavaScript, Python, Solidity</p>
 - **Frameworks:** React, Node.js, Express
-- **Blockchain Technologies:** Ethereum, 
+- **Blockchain Technologies:** Ethereum, -->
+<p style="color:blue;"><strong>Programming Languages:</strong> JavaScript, Python, Solidity</p>
+<p style="color:green;"><strong>Frameworks:</strong> React, Node.js, Express</p>
 
 ## 🔭 I’m currently working on
 - Contributing to open-source blockchain projects
