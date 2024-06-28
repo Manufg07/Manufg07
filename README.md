@@ -1,7 +1,7 @@
 ## Hi there I'm Manu👋
 -  Blockchain Enthusiast
   
-##🪡 My Skills
+## 🪡 My Skills
 
 <!--
 **Manufg07/Manufg07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
