@@ -12,11 +12,11 @@
 ## 🌱 I’m currently learning
 - Blockchain Technologies
 
-<-- ## 👯 I’m looking to collaborate on
+<!-- ## 👯 I’m looking to collaborate on
 - Blockchain-based projects
 - Open-source initiatives -->
 
-<-- ## 🤔 I’m looking for help with
+<!-- ## 🤔 I’m looking for help with
 - Understanding zero-knowledge proofs
 - Optimizing smart contract gas usage -->
 
