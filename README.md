@@ -10,30 +10,24 @@
 - Contributing to open-source blockchain projects
 
 ## 🌱 I’m currently learning
-- Advanced Solidity patterns
-- Layer 2 scaling solutions
+- Blockchain Technologies
 
-## 👯 I’m looking to collaborate on
+<-- ## 👯 I’m looking to collaborate on
 - Blockchain-based projects
-- Open-source initiatives
+- Open-source initiatives -->
 
-## 🤔 I’m looking for help with
+<-- ## 🤔 I’m looking for help with
 - Understanding zero-knowledge proofs
-- Optimizing smart contract gas usage
+- Optimizing smart contract gas usage -->
 
 ## 💬 Ask me about
 - Blockchain technology
-- Decentralized applications (dApps)
 - Web3 development
 
 ## 📫 How to reach me
 - Email: [manunarayananfg@gmail.com](manunarayananfg@gmail.com)
-- LinkedIn: [Manu's LinkedIn](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Manu's LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/manu-narayanan07/))
 
 
-## 😄 Pronouns
-- He/Him
 
-## ⚡ Fun fact
-- I once implemented a smart contract to manage a virtual cat adoption service!
 
