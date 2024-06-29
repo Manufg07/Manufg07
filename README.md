@@ -1,8 +1,8 @@
-## Hi there, I'm Manu 👋
+ ## Hi there, I'm Manu 👋
 - Blockchain Enthusiast
 
 ## 🪡 My Skills
- **Programming Languages:** JavaScript, Python, Solidity</p>
+ **Programming Languages:** JavaScript, Python,C, C#,C++ Solidity</p>
 - **Frameworks:** React, Node.js, Express
 - **Blockchain Technologies:** Ethereum, 
 
