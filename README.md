@@ -2,7 +2,7 @@
 - Blockchain Enthusiast
 
 ## 🪡 My Skills
- **Programming Languages:** JavaScript, Python,C, C#,C++,PHP Solidity</p>
+ **Programming Languages:** JavaScript, Python,C, C#,C++,PHP, Solidity</p>
 - **Frameworks:** React, Node.js, Express
 - **Blockchain Technologies:** Ethereum, 
 
