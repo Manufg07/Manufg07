@@ -2,9 +2,9 @@
 - Blockchain Enthusiast
 
 ## 🪡 My Skills
- **Programming Languages:** JavaScript, Python,C, C#,C++,PHP, Solidity</p>
+ **Programming Languages:** JavaScript, Python,C, C#,C++,PHP,</p>
 - **Frameworks:** React, Node.js, Express
-- **Blockchain Technologies:** Ethereum, 
+<!--- **Blockchain Technologies:** Ethereum, -->
 
 <!--## 🔭 I’m currently working on
 - Contributing to blockchain projects -->
@@ -20,9 +20,9 @@
 - Understanding zero-knowledge proofs
 - Optimizing smart contract gas usage -->
 
-## 💬 Ask me about
+<!--## 💬 Ask me about
 - Blockchain technology
-- Web3 development
+- Web3 development-->
 
 ## 📫 How to reach me
 - Email: [manunarayananfg@gmail.com](manunarayananfg@gmail.com)
