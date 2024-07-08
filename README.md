@@ -2,14 +2,14 @@
 - Blockchain Enthusiast
 
 ## 🪡 My Skills
- **Programming Languages:** JavaScript, Python,C, C#,C++,PHP,</p>
+ - **Programming Languages:** JavaScript, Python,C, C#,C++,PHP,</p>
 - **Frameworks:** React, Node.js, Express
 <!--- **Blockchain Technologies:** Ethereum, -->
 
 <!--## 🔭 I’m currently working on
 - Contributing to blockchain projects -->
 
-## 🌱 I’m currently learning
+##  I’m currently learning
 - Blockchain Technologies
 
 <!-- ## 👯 I’m looking to collaborate on
