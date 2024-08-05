@@ -3,7 +3,7 @@
 
 ## 🪡 My Skills
  - **Programming Languages:** JavaScript, Python,C, C#,C++,PHP,</p>
-- **Frameworks:** React, Node.js, Express
+- **Frameworks:** React.js,Next.js, Node.js, Express
 <!--- **Blockchain Technologies:** Ethereum, -->
 
 <!--## 🔭 I’m currently working on
