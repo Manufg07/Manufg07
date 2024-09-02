@@ -3,19 +3,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23FFFFFF&size=20&lines=Blockchain+Enthusiast;Full+Stack+Developer;Always+learning+new+things!)
 
 
-<!--## 🪡 My Skills
+## 🪡 My Skills
  - **Programming Languages:** JavaScript, Python,C, C#,C++,PHP,</p>
 - **Frameworks:** React.js,Next.js, Node.js, Express
 <!--- **Blockchain Technologies:** Ethereum, -->
 
 <!--## 🔭 I’m currently working on
 - Contributing to blockchain projects -->
-## 🪡 My Skills
-- **Programming Languages:** JavaScript, Python, C, C#, C++, PHP
-  - ![JavaScript](https://raw.githubusercontent.com/Manu07HD/icons/9f9a184a74e5ab2aa6354c29ed562472da38b0c5/language/javascript.svg)
-  - ![Python](https://raw.githubusercontent.com/Manu07HD/icons/9f9a184a74e5ab2aa6354c29ed562472da38b0c5/language/python.svg)
-- **Frameworks:** React.js, Next.js, Node.js, Express
-  - ![React](https://raw.githubusercontent.com/Manu07HD/icons/9f9a184a74e5ab2aa6354c29ed562472da38b0c5/framework/react.svg)
 
 ##  I’m currently learning
 - Blockchain Technologies
