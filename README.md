@@ -1,5 +1,8 @@
- ## Hi there, I'm Manu 👋
+## Hi there, I'm Manu 👋
 - Blockchain Enthusiast
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23FFFFFF&size=20&lines=Blockchain+Enthusiast;Full+Stack+Developer;Always+learning+new+things!)
+
 
 ## 🪡 My Skills
  - **Programming Languages:** JavaScript, Python,C, C#,C++,PHP,</p>
