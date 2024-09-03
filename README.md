@@ -1,7 +1,7 @@
 
-## Hi there, I'm Manu 🌟
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23FFFFFF&size=20&lines=Blockchain+Enthusiast;Full+Stack+Developer;Always+learning+new+things!)
+<h2 style="color: #FF6347; font-family: 'Courier New', monospace; font-weight: bold; text-align: center; text-shadow: 2px 2px #FF4500;">
+  Hi there, I'm Manu 🌟
+</h2>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23FFFFFF&size=20&lines=Blockchain+Enthusiast;Full+Stack+Developer;Always+learning+new+things!)
 
