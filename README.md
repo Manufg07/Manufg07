@@ -7,7 +7,20 @@
 ## 🪡 My Skills
 
 ![My Skills](path-to-your-skills-animation.gif)
+- **Programming Languages:**
+  - ![Solidity](https://img.icons8.com/color/48/000000/solidity.png) Solidity
+  - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+  - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+  - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+  - ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
+  - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+  - ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) PHP
 
+- **Frameworks:**
+  - ![React](https://img.icons8.com/color/48/000000/react-native.png) React.js
+  - ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) Next.js
+  - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+  - ![Express](https://img.icons8.com/color/48/000000/express.png) Express
 <!--- **Blockchain Technologies:** Ethereum, -->
 
 <!--## 🔭 I’m currently working on
