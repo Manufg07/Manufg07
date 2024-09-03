@@ -5,8 +5,9 @@
 ![Developer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🪡 My Skills
- - **Programming Languages:** JavaScript, Python,C, C#,C++,PHP,</p>
-- **Frameworks:** React.js,Next.js, Node.js, Express
+
+![My Skills](path-to-your-skills-animation.gif)
+
 <!--- **Blockchain Technologies:** Ethereum, -->
 
 <!--## 🔭 I’m currently working on
