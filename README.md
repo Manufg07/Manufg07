@@ -6,20 +6,10 @@
 
 ## 🪡 My Skills
 
-- **Programming Languages:**
-  - ![Solidity](https://img.icons8.com/color/48/000000/solidity.png) Solidity
-  - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-  - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-  - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
-  - ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
-  - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
-  - ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) PHP
+- **Programming Languages:** ![Solidity](https://img.icons8.com/color/48/000000/solidity.png) Solidity, ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript, ![Python](https://img.icons8.com/color/48/000000/python.png) Python, ![C](https://img.icons8.com/color/48/000000/c-programming.png) C, ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#, ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++, ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) PHP
 
-- **Frameworks:**
-  - ![React](https://img.icons8.com/color/48/000000/react-native.png) React.js
-  - ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) Next.js
-  - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
-  - ![Express](https://img.icons8.com/color/48/000000/express.png) Express
+- **Frameworks:** ![React](https://img.icons8.com/color/48/000000/react-native.png) React.js, ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) Next.js, ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js, ![Express](https://img.icons8.com/color/48/000000/express.png) Express
+
 
 
 <!--- **Blockchain Technologies:** Ethereum, -->
@@ -46,24 +36,5 @@
 - Email: [manunarayananfg@gmail.com](manunarayananfg@gmail.com)
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/manu-narayanan07/)
 
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    Manufg07: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 
