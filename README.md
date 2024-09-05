@@ -6,20 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23FFFFFF&size=20&lines=Blockchain+Enthusiast;Full+Stack+Developer;Always+learning+new+things!)
 
-<img align="left" src="https://![Developer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)"/> <br>
-  ### 🧑‍💻 &nbsp;About Me <br>
-
-
-
-  &nbsp; 👀 &nbsp; I’m interested in AI & Blockchain Technology    
-  &nbsp; 💻 &nbsp; I like to build things, learn how things works & build em.  
-  &nbsp; 🎓 &nbsp; I have done M.Phil Degree in Computer Science from CUSAT.  
-  &nbsp; 🌱 &nbsp; Currently working on GraphML for Blockchain Data Analysis.  
-  &nbsp; ✍️ &nbsp; In my free time, I pursue 3D Design and Read Light Novels.  
-  &nbsp; 💬 &nbsp; Feel free to reach out to me.  <br><br>
-  &nbsp; [![Telegram](https://raw.githubusercontent.com/ananthanir/ananthanir/dd73d691b8b71ac4eda23d1a655a822653e26f92/telegram.svg)](https://t.me/ananthanir) [![Twitter](https://raw.githubusercontent.com/ananthanir/ananthanir/dd73d691b8b71ac4eda23d1a655a822653e26f92/twitter.svg)](https://twitter.com/ananthanigr)
-  
-
+![Developer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 ## 🪡 My Skills
