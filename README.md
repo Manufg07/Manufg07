@@ -8,14 +8,7 @@
 
 ![Developer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<div align="center">
- <a href="#">
-   <img src="https://github-readme-stats.vercel.app/api?username=manufg07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-   </a>
-  <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manufg07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-     </a>
-</div>
+
 ## 🪡 My Skills
 
 You said:
@@ -59,6 +52,14 @@ You said:
 ## 📫 How to reach me
 - Email: [manunarayananfg@gmail.com](manunarayananfg@gmail.com)
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/manu-narayanan07/)
-
+  
+<div align="center">
+ <a href="#">
+   <img src="https://github-readme-stats.vercel.app/api?username=manufg07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+   </a>
+  <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manufg07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+     </a>
+</div>
 
 
