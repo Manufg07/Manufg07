@@ -1,7 +1,5 @@
 
-<h2 style="color: #4CAF50; font-family: Arial, sans-serif; font-weight: bold; text-align: center;">
-  Hi there, I'm Manu 🌟
-</h2>
+<h2><img alt="Night Coding" src="https:/blob/main/assets/wave.gif" width='40' align="left"/>Hello folks! I'm Manu</h2>
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23FFFFFF&size=20&lines=Blockchain+Enthusiast;Full+Stack+Developer;Always+learning+new+things!)
