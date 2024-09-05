@@ -6,7 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23FFFFFF&size=20&lines=Blockchain+Enthusiast;Full+Stack+Developer;Always+learning+new+things!)
 
-<img align="left" src="![Developer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)"/> <br>
+<img align="left" src="https://![Developer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)"/> <br>
   ### 🧑‍💻 &nbsp;About Me <br>
 
 
