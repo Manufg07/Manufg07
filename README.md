@@ -1,7 +1,6 @@
 
 <h2><img alt="Night Coding" src="assets/wave.gif" width='40' align="left"/>Hello folks! I'm Manu</h2>
 
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23FFFFFF&size=20&lines=Blockchain+Enthusiast;Full+Stack+Developer;Always+learning+new+things!)
 
 ![Developer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
