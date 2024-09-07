@@ -8,21 +8,31 @@
 
 
 ## 🪡 My Skills
+<!---
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVnbGprMDlnNTQwMmp5OWpsbWJsN2hzZHJ5cHFscW1tNmo0cXI2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rGiAuZlE0c6SNrNQwF/200w.webp" align="left"></img> -->
 
-- **Programming Languages:**
-  - ![Solidity](https://img.icons8.com/color/48/000000/solidity.png) Solidity
-  - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-  - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-  - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
-  - ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
-  - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
-  - ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) PHP
+<div align="right">
+  
+[![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)](https://soliditylang.org/)
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
+[![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)](https://www.linux.org/)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)](https://nodejs.org/)
+[![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge)](https://ethereum.org/)
+[![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
+[![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://www.docker.com/)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)](https://www.mongodb.com/)
+[![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)](https://react.dev/)
+[![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)](https://nextjs.org/)
+[![C# Badge](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff&style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java Badge](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)](https://www.java.com/)
+[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)](https://www.php.net/)
+[![Tailwind CSS Badge](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)](https://tailwindcss.com/)
+[![Unity Badge](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=fff&style=for-the-badge)](https://unity.com/)
+[![XAMPP Badge](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge)](https://www.apachefriends.org/index.html)
+[![SQL Badge](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=fff&style=for-the-badge)](https://www.postgresql.org/)
 
-- **Frameworks:**
-  - ![React](https://img.icons8.com/color/48/000000/react-native.png) React.js
-  - ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) Next.js
-  - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
-  - ![Express](https://img.icons8.com/color/48/000000/express.png) Express
+</div>
+
 
 
 
