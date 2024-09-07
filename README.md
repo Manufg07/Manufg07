@@ -41,8 +41,18 @@
 <!--## 🔭 I’m currently working on
 - Contributing to blockchain projects -->
 
-##  I’m currently learning
-- Blockchain Technologies
+##  🌐  I’m currently learning 🚀
+
+- **Blockchain Technologies**: Exploring the fundamentals of blockchain, consensus algorithms, and cryptographic principles.[![Blockchain]
+- **Smart Contracts**: Developing and deploying smart contracts on Ethereum using Solidity.
+- **DApp Development**: Building decentralized applications with frameworks like Web3.js and Ethers.js.
+- **NFTs (Non-Fungible Tokens)**: Learning about the creation, management, and trading of NFTs on various platforms.
+---
+
+
+
+
+
 
 <!-- ## 👯 I’m looking to collaborate on
 - Blockchain-based projects
@@ -60,7 +70,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manunarayananfg@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manu-narayanan07/)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/#@manufg007)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/@manufg007)
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord)](https://discordapp.com/users/Manu007)
 
 <div align="center">
