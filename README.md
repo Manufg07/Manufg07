@@ -5,9 +5,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23FFFFFF&size=20&lines=Blockchain+Enthusiast;Full+Stack+Developer;Always+learning+new+things!)
 
-<!--![Developer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
+<!-- ![Developer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
+![Programming GIF](https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif)
 
-![Programming GIF](https://media.tenor.com/https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif)
 
 ## 🪡 My Skills
 
