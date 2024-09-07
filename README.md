@@ -57,9 +57,12 @@
 - Web3 development-->
 
 ## 📫 How to reach me
-- Email: [manunarayananfg@gmail.com](manunarayananfg@gmail.com)
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/manu-narayanan07/)
-  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manunarayananfg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manu-narayanan07/)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/#@manufg007)
+[![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord)](https://discordapp.com/users/Manu007)
+
 <div align="center">
  <a href="#">
    <img src="https://github-readme-stats.vercel.app/api?username=manufg07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
