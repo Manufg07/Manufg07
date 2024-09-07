@@ -1,4 +1,6 @@
-
+<!--<p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=Manufg07&color=blue&style=flat-square" alt="hashirshoaeb profile views" />
+</p> -->
 <h2><img alt="Night Coding" src="assets/wave.gif" width='40' align="left"/>Hello folks! I'm Manu</h2>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23FFFFFF&size=20&lines=Blockchain+Enthusiast;Full+Stack+Developer;Always+learning+new+things!)
