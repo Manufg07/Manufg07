@@ -11,7 +11,6 @@
 
 ## 🪡 My Skills
 
-
 <div align="right">
   
 [![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)](https://soliditylang.org/)
