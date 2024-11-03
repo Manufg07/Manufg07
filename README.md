@@ -2,7 +2,7 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=Manufg07&color=blue&style=flat-square" alt="hashirshoaeb profile views" />
 </p> -->
 <h2><img alt="Night Coding" src="assets/wave.gif" width='40' align="left"/>Hello folks! I'm Manu</h2>
-<a href="[https://your-portfolio-link.com](https://manu-portfolio-six.vercel.app/)" target="_blank">
+<a href="https://manu-portfolio-six.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Click%20Here-orange?style=for-the-badge" alt="Portfolio Link" />
 </a>
 
