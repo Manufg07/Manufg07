@@ -3,7 +3,7 @@
 </p> -->
 <h2><img alt="Night Coding" src="assets/wave.gif" width='40' align="left"/>Hello folks! I'm Manu</h2>
 <a href="https://manu-portfolio-six.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Click%20Here-orange?style=for-the-badge" alt="Portfolio Link" />
+  <img src="https://img.shields.io/badge/Portfolio-Click%20Here-red?style=for-the-badge" alt="Portfolio Link" />
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%23FFFFFF&size=20&lines=Blockchain+Enthusiast;Full+Stack+Developer;Always+learning+new+things!)
