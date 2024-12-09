@@ -111,7 +111,7 @@
    <!--The Graph POAP -->
   <div>
     <a href="[https://collectors.poap.xyz/token/7271904](https://collectors.poap.xyz/token/7271904)" target="_blank" style="text-decoration: none;">
-      <img src="the-graph.gif" alt="The Graph POAP" width="120" style="border: 2px solid #FF6347; border-radius: 10px;"/>
+      <img src="graph.gif" alt="The Graph POAP" width="120" style="border: 2px solid #FF6347; border-radius: 10px;"/>
     </a>
     <p style="margin: 5px 0 0;"><strong>The Grapgh POAP</strong><br>
   </div>
