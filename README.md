@@ -87,13 +87,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manufg07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
      </a>
 </div>
+
 <h3>🏆 POAP Achievements</h3>
-<div>
-  <a href="https://collectors.poap.xyz/token/7271355" target="_blank" style="text-decoration: none;">
-  <img src="poap.jpg" alt="ETHIndia24 POAP" width="120" style="border: 2px solid #FFD700; border-radius: 10px;"/></a>
-  <p><strong>ETHIndia24 POAP</strong><br>
-  Participated in one of the largest Ethereum developer hackathons.</p>
 
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <!-- ETHIndia24 POAP -->
+  <div style="margin-bottom: 20px;">
+    <a href="https://collectors.poap.xyz/token/7271355" target="_blank" style="text-decoration: none;">
+      <img src="poap.jpg" alt="ETHIndia24 POAP" width="120" style="border: 2px solid #FFD700; border-radius: 10px;"/>
+    </a>
+    <p style="margin: 5px 0 0;"><strong>ETHIndia24 POAP</strong><br>
+    Participated in one of the largest Ethereum developer hackathons.</p>
+  </div>
+
+  <!-- Polkadot POAP -->
+  <div>
+    <a href="https://collectors.poap.xyz/token/7271904" target="_blank" style="text-decoration: none;">
+      <img src="polkadot.gif" alt="Polkadot POAP" width="120" style="border: 2px solid #FF6347; border-radius: 10px;"/>
+    </a>
+    <p style="margin: 5px 0 0;"><strong>Polkadot POAP</strong><br>
+    A token of appreciation for engaging in Polkadot-related activities.</p>
+  </div>
 </div>
-
-
