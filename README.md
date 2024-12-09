@@ -90,11 +90,9 @@
 <h3>🏆 POAP Achievements</h3>
 <div>
   <a href="https://collectors.poap.xyz/token/7271355" target="_blank" style="text-decoration: none;">
-  <img src="poap.jpg" alt="ETHIndia24 POAP" width="120" style="border: 2px solid #FFD700; border-radius: 10px;"/>
+  <img src="poap.jpg" alt="ETHIndia24 POAP" width="120" style="border: 2px solid #FFD700; border-radius: 10px;"/></a>
   <p><strong>ETHIndia24 POAP</strong><br>
   Participated in one of the largest Ethereum developer hackathons.</p>
-</a>
-
 </div>
 
 
