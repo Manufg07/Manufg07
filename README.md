@@ -93,6 +93,13 @@
   <img src="poap.jpg" alt="ETHIndia24 POAP" width="120" style="border: 2px solid #FFD700; border-radius: 10px;"/></a>
   <p><strong>ETHIndia24 POAP</strong><br>
   Participated in one of the largest Ethereum developer hackathons.</p>
+
+[![Polkadot POAP](polkadot.gif)](https://collectors.poap.xyz/token/7271448)
+
+**Polkadot POAP**  
+A token of appreciation for participating in Polkadot-related activities.  
+[View this POAP on POAP Explorer](https://collectors.poap.xyz/token/7271448)
+
 </div>
 
 
