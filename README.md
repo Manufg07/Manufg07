@@ -87,5 +87,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manufg07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
      </a>
 </div>
+<h3>🏆 POAP Achievements</h3>
+<div>
+  <img src="poap.jpg" alt="ETHIndia24 POAP" width="120" style="border: 2px solid #FFD700; border-radius: 10px;"/>
+  <p><strong>ETHIndia24 POAP</strong><br>
+  Participated in one of the largest Ethereum developer hackathons.</p>
+</div>
 
 
