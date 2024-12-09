@@ -92,6 +92,7 @@
   <img src="poap.jpg" alt="ETHIndia24 POAP" width="120" style="border: 2px solid #FFD700; border-radius: 10px;"/>
   <p><strong>ETHIndia24 POAP</strong><br>
   Participated in one of the largest Ethereum developer hackathons.</p>
+  [View my POAP](https://collectors.poap.xyz/token/7271355)
 </div>
 
 
