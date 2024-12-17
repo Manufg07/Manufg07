@@ -88,6 +88,21 @@
      </a>
 </div>
 
+## 🏆 SBT Achievement
+
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+
+  <!-- Zero-KP Verify SBT -->
+  <div style="margin-bottom: 20px;">
+    <a href="https://opensea.io/assets/base/0x91F311e31319FE79d6ACa4a898CD6a00e12C3D23/246" target="_blank" style="text-decoration: none;">
+      <img src="sbt-image.jpg" alt="Zero-KP Verify SBT" width="120" style="border: 2px solid #00C7FF; border-radius: 10px;"/>
+    </a>
+    <p style="margin: 5px 0 0;"><strong>Zero-KP Verify SBT</strong><br>
+    Awarded for building "Zero-KP Verify" at the Base India Buildathon. Recognized for innovation in Zero-Knowledge Proof-based identity verification.</p>
+  </div>
+
+</div>
+
 <h3>🏆 POAP Achievements</h3>
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
