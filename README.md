@@ -49,7 +49,7 @@
 
 ##  🌐  I’m currently learning 🚀
 
-- **Blockchain Technologies**: Exploring the fundamentals of blockchain, consensus algorithms, and cryptographic principles.[![Blockchain]
+- **Blockchain Technologies**: Exploring the fundamentals of blockchain, consensus algorithms, and cryptographic principles.
 - **Smart Contracts**: Developing and deploying smart contracts on Ethereum using Solidity.
 - **DApp Development**: Building decentralized applications with frameworks like Web3.js and Ethers.js.
 - **NFTs (Non-Fungible Tokens)**: Learning about the creation, management, and trading of NFTs on various platforms.
