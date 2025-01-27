@@ -88,20 +88,31 @@
      </a>
 </div>
 
-## 🏆 SBT Achievement
+## 🏆 SBT Achievements
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
 
   <!-- Zero-KP Verify SBT -->
   <div style="margin-bottom: 20px;">
     <a href="https://opensea.io/assets/base/0x91F311e31319FE79d6ACa4a898CD6a00e12C3D23/246" target="_blank" style="text-decoration: none;">
-      <img src="8c32e965e4b13dd6720186b7247417b4.png " alt="Zero-KP Verify SBT" width="120" style="border: 2px solid #00C7FF; border-radius: 10px;"/>
+      <img src="8c32e965e4b13dd6720186b7247417b4.png" alt="Zero-KP Verify SBT" width="120" style="border: 2px solid #00C7FF; border-radius: 10px;"/>
     </a>
     <p style="margin: 5px 0 0;"><strong>Zero-KP Verify SBT</strong><br>
     Awarded for building "Zero-KP Verify" at the Base India Buildathon. Recognized for innovation in Zero-Knowledge Proof-based identity verification.</p>
   </div>
 
+  <!-- ZeroCheck SBT -->
+  <div style="margin-bottom: 20px;">
+    <a href="https://opensea.io/assets/base/0x49a650e8F1054B556bCe815b12EFF7Dd8d9eeEaf/234" target="_blank" style="text-decoration: none;">
+      <img src="2f105b07ff1f8327e11a87e9b51aab28.webp" alt="ZeroCheck SBT" width="120" style="border: 2px solid #FFC700; border-radius: 10px;"/>
+    </a>
+    <p style="margin: 5px 0 0;"><strong>ZeroCheck SBT</strong><br>
+    My project "ZeroCheck" was showcased at ETHIndia 2024. This SBT is proof that I was there contributing to the advancements in Ethereum's ecosystem and pushing the boundaries of innovation.</p>
+  </div>
+  </div>
+
 </div>
+
 
 <h3>🏆 POAP Achievements</h3>
 
